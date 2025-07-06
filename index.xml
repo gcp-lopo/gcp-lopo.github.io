@@ -1,61 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lopo Blog</title>
-    <link>http://localhost:14320/</link>
-    <description>Recent content on Lopo Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:14320/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>http://localhost:14320/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/post/readme/</guid>
-      <description>&lt;h1 id=&#34;clean-white-theme-for-hugo&#34;&gt;Clean White Theme for Hugo&lt;/h1&gt;&#xA;&lt;p&gt;CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live &lt;a href=&#34;https://zhaohuabing.com&#34;&gt;demo site&lt;/a&gt; using this theme.&lt;/p&gt;&#xA;&lt;p&gt;It is based on &lt;a href=&#34;https://github.com/Huxpro/huxpro.github.io&#34;&gt;huxblog Jekyll Theme&lt;/a&gt;&#xA;and &lt;a href=&#34;https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll&#34;&gt;Clean Blog Jekyll Theme&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed. Some other features which I think could be useful, such as site search with algolia and proxy for Disqus access in China, have also been built in the CleanWhite theme. Other fancy features of upstream projects are not supported by this Hugo theme, I&amp;rsquo;d like to make it as simple as possible and only focus on blog purpose, at least for now.&#xA;While I created this theme, I followed the Hugo theme best practice and tried to make every part of the template as a replaceable partial html, so it could be much easier for you to make your customization based on it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An Example Post</title>
-      <link>http://localhost:14320/post/2025-07-05_my-first-post/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/post/2025-07-05_my-first-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>An Example Post</title>
-      <link>http://localhost:14320/post/my-post/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/post/my-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:14320/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/about/</guid>
-      <description>&lt;h1 id=&#34;关于我&#34;&gt;关于我&lt;/h1&gt;&#xA;&lt;p&gt;姓名：lopo&lt;br&gt;&#xA;职业：8年临床试验SAS程序员&lt;br&gt;&#xA;爱好：竹笛、乒乓球等&lt;/p&gt;&#xA;&lt;p&gt;欢迎来到我的个人博客，这里记录了我的学习、工作和生活点滴。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:14320/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/notes/</guid>
-      <description>&lt;h2 id=&#34;go-语言学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-golang&#34;&gt;Go 语言学习笔记&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;envoy-学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-envoy&#34;&gt;Envoy 学习笔记&lt;/a&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:14320/search/placeholder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/search/placeholder/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Posts Archive</title>
-      <link>http://localhost:14320/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:14320/archive/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>全部文章 on Lopo Blog</title><link>https://gcp-lopo.github.io/</link><description>Recent content in 全部文章 on Lopo Blog</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://gcp-lopo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我</title><link>https://gcp-lopo.github.io/about/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/about/</guid><description>&lt;h1 id="关于我">关于我&lt;/h1>
+&lt;h2 id="-个人简介">👨‍💻 个人简介&lt;/h2>
+&lt;p>&lt;strong>姓名&lt;/strong>: lopo&lt;br>
+&lt;strong>职业&lt;/strong>: 8年临床试验SAS程序员&lt;br>
+&lt;strong>专业领域&lt;/strong>: 临床试验数据分析、SAS编程、生物统计学&lt;br>
+&lt;strong>爱好&lt;/strong>: 竹笛演奏、乒乓球运动&lt;/p>
+&lt;h2 id="-专业背景">🎯 专业背景&lt;/h2>
+&lt;p>作为一名在临床试验领域工作了8年的SAS程序员，我专注于：&lt;/p></description></item><item><title>学习笔记</title><link>https://gcp-lopo.github.io/notes/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/notes/</guid><description>&lt;h1 id="-学习笔记">📚 学习笔记&lt;/h1>
+&lt;p>这里记录了我的技术学习笔记和心得，包括SAS编程、临床试验数据分析以及其他技术领域的学习内容。&lt;/p>
+&lt;h2 id="-学习目标">🎯 学习目标&lt;/h2>
+&lt;ul>
+&lt;li>深入掌握SAS在临床试验中的应用&lt;/li>
+&lt;li>探索R语言、Python等新工具&lt;/li>
+&lt;li>学习数据科学和机器学习技术&lt;/li>
+&lt;li>提升项目管理和团队协作能力&lt;/li>
+&lt;/ul>
+&lt;h2 id="-笔记分类">📖 笔记分类&lt;/h2>
+&lt;h3 id="sas编程笔记">SAS编程笔记&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/sas-macro-best-practices">SAS宏编程最佳实践&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/clinical-data-management">临床试验数据管理技巧&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/sas-statistical-analysis">SAS统计分析案例&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="新技术学习">新技术学习&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/r-clinical-trials">R语言在临床试验中的应用&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/python-data-analysis">Python数据分析入门&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/machine-learning-basics">机器学习基础&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="项目管理">项目管理&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/clinical-trial-management">临床试验项目管理经验&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gcp-lopo.github.io/notes/team-collaboration">团队协作最佳实践&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="-更新计划">🔄 更新计划&lt;/h2>
+&lt;ul>
+&lt;li>每周至少更新一篇技术笔记&lt;/li>
+&lt;li>定期回顾和整理学习内容&lt;/li>
+&lt;li>分享实际项目中的经验教训&lt;/li>
+&lt;/ul>
+&lt;h2 id="-学习心得">💡 学习心得&lt;/h2>
+&lt;h3 id="持续学习的重要性">持续学习的重要性&lt;/h3>
+&lt;p>在快速发展的技术领域，持续学习是保持竞争力的关键。我通过以下方式保持学习：&lt;/p></description></item><item><title>我的SAS编程之路：8年临床试验数据分析经验分享</title><link>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>作为一名在临床试验领域工作了8年的SAS程序员，我想通过这篇文章分享我的职业经历、技术心得以及对这个行业的理解。从最初的SAS基础编程，到复杂的临床试验数据分析，再到项目管理，这一路走来收获颇丰。&lt;/p></description></item><item><title>An Example Post</title><link>https://gcp-lopo.github.io/post/my-post/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/post/my-post/</guid><description/></item><item><title/><link>https://gcp-lopo.github.io/search/placeholder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/search/placeholder/</guid><description/></item><item><title>Posts Archive</title><link>https://gcp-lopo.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/archive/</guid><description>&lt;h1 id="文章归档">文章归档&lt;/h1>
+&lt;p>这里是所有历史文章的归档列表，方便查找和回顾。&lt;/p></description></item></channel></rss>
