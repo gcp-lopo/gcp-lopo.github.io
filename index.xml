@@ -2,11 +2,12 @@
 &lt;p>利用hugo-theme-cleanwhite主题创建个人blog，并部署到github pages实现公开访问&lt;/p>
 &lt;h2 id="主要内容">主要内容&lt;/h2>
 &lt;h3 id="第一部分">第一部分&lt;/h3>
-&lt;p>hugo使用方法：
-./hugo.png&lt;/p>
+&lt;p>hugo使用方法：&lt;/p>
+
+ &lt;img src="hugo.png" alt="">
+
 &lt;h3 id="第二部分">第二部分&lt;/h3>
-&lt;p>部署到github步骤:
-./gitpag.png&lt;/p></description></item><item><title>关于我</title><link>https://gcp-lopo.github.io/about/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/about/</guid><description>&lt;h1 id="关于我">关于我&lt;/h1>
+&lt;p>部署到github步骤:&lt;/p></description></item><item><title>关于我</title><link>https://gcp-lopo.github.io/about/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/about/</guid><description>&lt;h1 id="关于我">关于我&lt;/h1>
 &lt;h2 id="-个人简介">👨‍💻 个人简介&lt;/h2>
 &lt;p>&lt;strong>姓名&lt;/strong>: lopo&lt;br>
 &lt;strong>职业&lt;/strong>: 8年临床试验SAS程序员&lt;br>
