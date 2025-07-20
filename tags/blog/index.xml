@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Lopo Blog</title><link>https://gcp-lopo.github.io/tags/blog/</link><description>Recent content in Blog on Lopo Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 22:38:47 +0800</lastBuildDate><atom:link href="https://gcp-lopo.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>个人博客友链配置</title><link>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</link><pubDate>Sun, 20 Jul 2025 22:38:47 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
-&lt;p>借助Cusor完成了：&lt;/p>
-&lt;ul>
-&lt;li>Pubmed每日公共卫生文章的抓取、存档、及部署到github pages&lt;/li>
-&lt;li>Hacker News抓取Ai创业相关的文章并部署到github pages&lt;/li>
-&lt;/ul>
-&lt;h2 id="主要内容">主要内容&lt;/h2>
-&lt;h3 id="第一部分">第一部分&lt;/h3>
-&lt;p>如果不想核心代码开源，可以通过在github上建立两个仓库实现，一个仓库设置成public，用于存放pages信息，另一个仓库设置为private，放不想展示的内容；在私有仓库中&lt;span style="color:lightgreen;font-size:20px">.github\workflows&lt;/span>下创建deploy.yml文件，配置需要安装的依赖以及运行自动抓取的程序，继而git push后，自动触发github actions运行，从而实现完全自动化：每天github pages即可展示最新的内容&lt;/p></description></item></channel></rss>
