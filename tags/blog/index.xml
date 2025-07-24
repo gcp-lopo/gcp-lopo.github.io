@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Lopo Blog</title><link>https://gcp-lopo.github.io/tags/blog/</link><description>Recent content in Blog on Lopo Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 00:35:48 +0800</lastBuildDate><atom:link href="https://gcp-lopo.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>issue of git Clone and Hugo</title><link>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</link><pubDate>Thu, 24 Jul 2025 23:22:31 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;ul>
+&lt;li>用其他电脑git clone项目时报错“Could not open a connection to your authentication agent.”的解决办法；&lt;/li>
+&lt;li>使用hugo报Warning：hugo WARN found no layout file for &amp;ldquo;html&amp;rdquo; for kind &amp;ldquo;home&amp;rdquo;: You should create a template file which matches Hugo Layouts ；&lt;/li>
+&lt;/ul>
+&lt;h2 id="主要内容">主要内容&lt;/h2>
+&lt;p>在个人电脑上用hugo创建个人博客并部署到github上，使用其他电脑克隆时报错的解决办法及使用hugo serve本地预览个人博客报错问题的原因及解决办法。&lt;/p></description></item></channel></rss>
