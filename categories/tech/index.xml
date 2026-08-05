@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tech on Lopo</title><link>https://gcp-lopo.github.io/categories/tech/</link><description>Recent content in Tech on Lopo</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Thu, 16 Jul 2026 01:12:57 +0800</lastBuildDate><atom:link href="https://gcp-lopo.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>跨设备维护 Hugo 博客：SSH 与主题子模块问题记录</title><link>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</link><pubDate>Thu, 24 Jul 2025 23:22:31 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;ul>
+&lt;li>用其他电脑git clone项目时报错“Could not open a connection to your authentication agent.”的解决办法；&lt;/li>
+&lt;li>使用hugo报Warning：hugo WARN found no layout file for &amp;ldquo;html&amp;rdquo; for kind &amp;ldquo;home&amp;rdquo;: You should create a template file which matches Hugo Layouts ；&lt;/li>
+&lt;/ul>
+&lt;h2 id="主要内容">主要内容&lt;/h2>
+&lt;p>在个人电脑上用hugo创建个人博客并部署到github上，使用其他电脑克隆时报错的解决办法及使用hugo serve本地预览个人博客报错问题的原因及解决办法。&lt;/p></description></item><item><title>用 GitHub Actions 构建两个自动信息雷达</title><link>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</link><pubDate>Sun, 20 Jul 2025 22:38:47 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</guid><description>&lt;h2 id="为什么做信息雷达">为什么做信息雷达&lt;/h2>
+&lt;p>我借助 Cursor 和 GitHub Actions 搭建了两个自动更新页面：&lt;/p>
+&lt;ul>
+&lt;li>PubMed 公共卫生文献雷达：发现与研究设计、生物统计、流行病学和真实世界证据相关的文献；&lt;/li>
+&lt;li>AI 工作流资讯雷达：关注 AI 编程、数据自动化和研究工具。&lt;/li>
+&lt;/ul>
+&lt;p>它们的定位是“候选选题入口”，用于减少日常浏览成本，不代表本站推荐，也不能替代系统综述、正式检索或证据质量评价。&lt;/p></description></item><item><title>我的临床试验 SAS 编程之路：从入行到技术转型</title><link>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>我从 2017 年 7 月开始从事临床试验 SAS 编程。这篇文章回顾入行以来的职业经历、技术积累，以及从 SAS 向 R、Python 和现代可复现工作流延伸的思考。&lt;/p>
+&lt;h2 id="我的sas编程之路">我的SAS编程之路&lt;/h2>
+&lt;h3 id="初入行业">初入行业&lt;/h3>
+&lt;p>2017年7月毕业后直接来到北京，进入一家CRO，我刚开始接触SAS编程时，面对临床试验数据的复杂性，确实感到有些不知所措。临床试验数据有其特殊性：&lt;/p></description></item></channel></rss>
