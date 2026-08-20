@@ -1,0 +1,122 @@
+/* Blog v2.1 — homepage discovery enhancements.
+ * Kept separate from the legacy theme overrides so this patch stays surgical.
+ */
+
+.home-path-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-path-card:hover,
+.home-path-card:focus,
+.home-path-card:focus-visible {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-path-card:focus-visible {
+  outline: 3px solid var(--lopo-highlight);
+  outline-offset: 4px;
+}
+
+.home-path-card__cta {
+  display: inline-block;
+  margin-top: 22px;
+  color: var(--lopo-accent-dark);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.home-reflections {
+  margin-top: 54px;
+  padding-top: 34px;
+  border-top: 1px solid var(--lopo-border);
+}
+
+.home-reflections__heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 14px;
+}
+
+.home-reflections__heading p {
+  margin: 0 0 8px;
+  color: var(--lopo-accent);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.home-reflections__heading h2 {
+  margin: 0;
+  border: 0;
+  color: var(--lopo-ink);
+  font-size: 26px;
+  line-height: 1.3;
+}
+
+.home-reflections__heading > a {
+  padding-bottom: 3px;
+  color: var(--lopo-accent-dark);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.home-reflections__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.home-reflections__list li {
+  display: grid;
+  grid-template-columns: 58px minmax(0, 1fr);
+  gap: 14px;
+  align-items: baseline;
+  padding: 13px 0;
+  border-bottom: 1px solid rgba(220, 229, 230, 0.75);
+}
+
+.home-reflections__list time {
+  color: var(--lopo-muted);
+  font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+  font-size: 12px;
+}
+
+.home-reflections__list a {
+  color: var(--lopo-ink);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.55;
+}
+
+.home-reflections__list a:hover {
+  color: var(--lopo-accent-dark);
+}
+
+@media (max-width: 767px) {
+  .home-path-card__cta {
+    margin-top: 16px;
+  }
+
+  .home-reflections {
+    margin-top: 42px;
+    padding-top: 28px;
+  }
+
+  .home-reflections__heading {
+    align-items: flex-start;
+  }
+
+  .home-reflections__heading h2 {
+    font-size: 24px;
+  }
+
+  .home-reflections__list li {
+    grid-template-columns: 52px minmax(0, 1fr);
+    gap: 10px;
+  }
+}

@@ -1,0 +1,8 @@
+/* Blog ↔ FORGE semantic rendering contract.
+   FORGE stores green emphasis as ==text==; Hugo renders it as <mark>. */
+.post-container mark {
+  padding: 0;
+  color: #00866a;
+  background: transparent;
+  font-weight: inherit;
+}

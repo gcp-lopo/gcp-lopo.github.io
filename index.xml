@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>全部文章 on Lopo</title><link>https://gcp-lopo.github.io/</link><description>Recent content in 全部文章 on Lopo</description><generator>Hugo</generator><language>zh-CN</language><atom:link href="https://gcp-lopo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>我复盘了一下</title><link>https://gcp-lopo.github.io/post/2026-08-20_%E6%88%91%E5%A4%8D%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%8B/</link><pubDate>Thu, 20 Aug 2026 20:28:57 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2026-08-20_%E6%88%91%E5%A4%8D%E7%9B%98%E4%BA%86%E4%B8%80%E4%B8%8B/</guid><description>&lt;p>我复盘了一下，为什么GPT 5.6 sol-high智商这么高依然会设计出一个.py文件几千行的初始版本&lt;/p>
+&lt;p>我最开始没想到做一个&lt;mark>自我提升复利&lt;/mark>系统，最开始是拿几年前生成的一个rain.html，让gpt优化，
+提示词为“你是世界上顶级架构师，产品经理，UI设计大师，比如乔布斯，评价一下这款产品，给出详细的修改意见”
+优化了6轮后，突然冒出来一个念头，自身要变强，于是把自身情况和想法按如下提示词发给了gpt：&lt;/p></description></item><item><title>vibe coding很容易陷入漩涡</title><link>https://gcp-lopo.github.io/reflections/2026-08-19_vibe-coding%E5%BE%88%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E6%BC%A9%E6%B6%A1/</link><pubDate>Wed, 19 Aug 2026 22:35:02 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-19_vibe-coding%E5%BE%88%E5%AE%B9%E6%98%93%E9%99%B7%E5%85%A5%E6%BC%A9%E6%B6%A1/</guid><description>&lt;p>vibe coding很容易陷入漩涡，&lt;br>
+像打游戏一样&lt;mark>上瘾&lt;/mark>，&lt;br>
+昨天优化我的forge os系统，&lt;br>
+一不小心就到凌晨4点了，&lt;br>
+用了chatgpt网页端总觉效果达不到满意，&lt;br>
+又分别试了codex和deepseek harness配的v4 pro，&lt;br>
+效果还是不尽如人意，&lt;br>
+想要vibe coding出一款好的产品，&lt;br>
+&lt;mark>个人的创意&lt;/mark>很重要，全部交给Ai设计，&lt;br>
+目前的模型实力还达不到，&lt;br>
+现在的模型实现人设定好的蓝图，效果很棒，&lt;br>
+只一句话出来的东西细节总不让人满意，&lt;br>
+至少gpt如此，或许fable5能实现吧&lt;/p></description></item><item><title>forge开发优化</title><link>https://gcp-lopo.github.io/reflections/2026-08-19_forge%E5%BC%80%E5%8F%91%E4%BC%98%E5%8C%96/</link><pubDate>Wed, 19 Aug 2026 21:27:04 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-19_forge%E5%BC%80%E5%8F%91%E4%BC%98%E5%8C%96/</guid><description>&lt;p>从8.15晚8:27分构建forge os第一个版本(html格式)到今天8.19晚8点多，&lt;/p>
+&lt;p>4天总共迭代了62个版本，一开始设计的单html格式埋下了一颗大雷，&lt;/p></description></item><item><title>大模型还是得靠人</title><link>https://gcp-lopo.github.io/reflections/2026-08-18_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%98%E6%98%AF%E5%BE%97%E9%9D%A0%E4%BA%BA/</link><pubDate>Tue, 18 Aug 2026 00:52:55 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-18_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%98%E6%98%AF%E5%BE%97%E9%9D%A0%E4%BA%BA/</guid><description>&lt;p>即便是世界领先的大模型，在设计层面也会出架构问题，&lt;/p>
+&lt;p>review很重要，哪怕是用相同的模型，&lt;/p>
+&lt;p>今天让codex站在产品经理的角度review我这套forge os，提出来很
+多有建树的意见，&lt;/p></description></item><item><title>做产品哪有那么容易</title><link>https://gcp-lopo.github.io/reflections/2026-08-16_%E5%81%9A%E4%BA%A7%E5%93%81%E5%93%AA%E6%9C%89%E9%82%A3%E4%B9%88%E5%AE%B9%E6%98%93/</link><pubDate>Sun, 16 Aug 2026 16:55:59 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-16_%E5%81%9A%E4%BA%A7%E5%93%81%E5%93%AA%E6%9C%89%E9%82%A3%E4%B9%88%E5%AE%B9%E6%98%93/</guid><description>&lt;p>做一款产品哪有那么容易，小红书最近很火的workbuddy做个人工作台，想做的好看实用，我觉得也不容易，&lt;/p>
+&lt;p>我自认为我打造的这款forge os不是工作台，是可以商业化的一款产品，
+有&lt;!-- raw HTML omitted -->沉淀知识&lt;!-- raw HTML omitted -->，&lt;!-- raw HTML omitted -->形成复利&lt;!-- raw HTML omitted -->需求的人不在少数，虽然我没发过问卷调研，AI时代，更需要记录自己的想法，总觉得遇到问题直接AI不就行了，我不赞同，就算直接AI，也需要把AI的回复沉淀下来，形成一套系统，不然太散，&lt;/p></description></item><item><title>关于细水长流</title><link>https://gcp-lopo.github.io/reflections/2026-08-16_%E5%85%B3%E4%BA%8E%E7%BB%86%E6%B0%B4%E9%95%BF%E6%B5%81/</link><pubDate>Sun, 16 Aug 2026 03:24:15 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-16_%E5%85%B3%E4%BA%8E%E7%BB%86%E6%B0%B4%E9%95%BF%E6%B5%81/</guid><description>&lt;p>&lt;!-- raw HTML omitted -->vibe coding&lt;!-- raw HTML omitted -->也能进入心流状态，会上瘾真不假，&lt;/p>
+&lt;p>这都凌晨3:16了还没睡，趁着chatgpt增加新功能的空挡写一篇随想，或许也和自己的性格有关，总想一次性完成甚至完美，&lt;/p></description></item><item><title>文献汇报拖延的内疚</title><link>https://gcp-lopo.github.io/reflections/2026-08-16_%E6%96%87%E7%8C%AE%E6%B1%87%E6%8A%A5%E6%8B%96%E5%BB%B6%E7%9A%84%E5%86%85%E7%96%9A/</link><pubDate>Sun, 16 Aug 2026 03:12:58 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-16_%E6%96%87%E7%8C%AE%E6%B1%87%E6%8A%A5%E6%8B%96%E5%BB%B6%E7%9A%84%E5%86%85%E7%96%9A/</guid><description>&lt;p>导师前两周让我读的文献，我一直拖到了今天还没读完并做成
+汇报PPT, &lt;!-- raw HTML omitted -->let somebody down&lt;!-- raw HTML omitted --> 的滋味真不好受
+我也想尽快读完文献，可是这篇是方法学文献，加之最近总是
+想看看AI能做出什么效果，大量的时间花费到和AI聊天上，实在
+是废了好多时间，有些事情还是得亲历亲为，和AI聊久了并没有
+提升多少效率，但是AI确实能提供不少灵感&lt;/p></description></item><item><title>个人成长复利系统搭建</title><link>https://gcp-lopo.github.io/reflections/2026-08-16_%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E5%A4%8D%E5%88%A9%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA/</link><pubDate>Sun, 16 Aug 2026 02:52:25 +0800</pubDate><guid>https://gcp-lopo.github.io/reflections/2026-08-16_%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF%E5%A4%8D%E5%88%A9%E7%B3%BB%E7%BB%9F%E6%90%AD%E5%BB%BA/</guid><description>&lt;p>今天突然下了大雨，在公司待到了23:40雨停了才走，&lt;/p>
+&lt;p>虽然没有完成计划，但是花了三四个小时搭建一套属于自己的
+成长复利系统还是很值得的，和我的github pages可以联动，平时工作学习任何时候产生的知识和想法都会沉淀成我的资产；&lt;/p></description></item><item><title>提高效率</title><link>https://gcp-lopo.github.io/post/2026-08-15_%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/</link><pubDate>Sat, 15 Aug 2026 23:27:59 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2026-08-15_%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87/</guid><description>&lt;p>我在想怎么才能提高效率呢，高效能人士的7个习惯我印象中提到
+要事第一，以终为始，可是我最近的要事也太多了，内心就会紧张
+反倒沉浸不了心思做完一件事再做另一件，导致任务越积越多，&lt;/p></description></item><item><title>一张 Swimmer Plot，怎样从截图变成可验证的 SAS/R 案例</title><link>https://gcp-lopo.github.io/post/2026-08-05_swimmer-plot-sas-r-case/</link><pubDate>Wed, 05 Aug 2026 11:35:00 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2026-08-05_swimmer-plot-sas-r-case/</guid><description>&lt;p>最近完成了一个小案例：把一张临床试验 Swimmer Plot 拆开，用模拟数据分别写出 R 和 SAS 版本，再把关键计数和输出结果做成 QC。&lt;/p>
+&lt;p>这不是在复刻某个真实项目的 TFL。原始数据不可得，截图里的周期位置也不能直接当成数据。所以我做的事情更接近“图形结构复现”：保留能从图上看见的关系，所有受试者、时间和疾病状态都重新构造。&lt;/p></description></item><item><title>我给自己搭了一套执行系统：把工作、读研、转型和副业放进同一张图</title><link>https://gcp-lopo.github.io/post/2026-08-05_growthos-personal-operating-system/</link><pubDate>Wed, 05 Aug 2026 11:30:00 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2026-08-05_growthos-personal-operating-system/</guid><description>&lt;p>我以前把工作、读书、学 R、写博客和副业想成几条互不相干的线。每条线都有道理，放在一起却经常互相抢时间。下班后如果只剩一个小时，我很难判断该看论文、写代码，还是把一篇文章补完。&lt;/p></description></item><item><title>今天做了两件小事：给博客多留一个入口，也给宝宝留一个私人抽屉</title><link>https://gcp-lopo.github.io/post/2026-07-18_cloudflare-and-yashi/</link><pubDate>Sat, 18 Jul 2026 21:34:00 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2026-07-18_cloudflare-and-yashi/</guid><description>&lt;p>今天没有完成什么宏大的项目，只做了两件终于能用的小事。&lt;/p>
+&lt;p>一件是给这个博客增加了一个 Cloudflare Pages 入口。另一件，是花六个多小时做出了一款记录宝宝成长的 PWA，我给它取名叫“芽时”。&lt;/p></description></item><item><title>站内搜索</title><link>https://gcp-lopo.github.io/search/</link><pubDate>Wed, 15 Jul 2026 00:00:00 +0800</pubDate><guid>https://gcp-lopo.github.io/search/</guid><description/></item><item><title>跨设备维护 Hugo 博客：SSH 与主题子模块问题记录</title><link>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</link><pubDate>Thu, 24 Jul 2025 23:22:31 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-24_git-clone-and-hugo/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;ul>
+&lt;li>用其他电脑git clone项目时报错“Could not open a connection to your authentication agent.”的解决办法；&lt;/li>
+&lt;li>使用hugo报Warning：hugo WARN found no layout file for &amp;ldquo;html&amp;rdquo; for kind &amp;ldquo;home&amp;rdquo;: You should create a template file which matches Hugo Layouts ；&lt;/li>
+&lt;/ul>
+&lt;h2 id="主要内容">主要内容&lt;/h2>
+&lt;p>在个人电脑上用hugo创建个人博客并部署到github上，使用其他电脑克隆时报错的解决办法及使用hugo serve本地预览个人博客报错问题的原因及解决办法。&lt;/p></description></item><item><title>用 GitHub Actions 构建两个自动信息雷达</title><link>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</link><pubDate>Sun, 20 Jul 2025 22:38:47 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-20_%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8B%E9%93%BE%E9%85%8D%E7%BD%AE/</guid><description>&lt;h2 id="为什么做信息雷达">为什么做信息雷达&lt;/h2>
+&lt;p>我借助 Cursor 和 GitHub Actions 搭建了两个自动更新页面：&lt;/p>
+&lt;ul>
+&lt;li>PubMed 公共卫生文献雷达：发现与研究设计、生物统计、流行病学和真实世界证据相关的文献；&lt;/li>
+&lt;li>AI 工作流资讯雷达：关注 AI 编程、数据自动化和研究工具。&lt;/li>
+&lt;/ul>
+&lt;p>它们的定位是“候选选题入口”，用于减少日常浏览成本，不代表本站推荐，也不能替代系统综述、正式检索或证据质量评价。&lt;/p></description></item><item><title>Hugo 博客部署到 GitHub Pages 的调试记录</title><link>https://gcp-lopo.github.io/post/2025-07-06_debug-blog/</link><pubDate>Sun, 06 Jul 2025 22:03:34 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-06_debug-blog/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>利用hugo-theme-cleanwhite主题创建个人blog，并部署到github pages实现公开访问&lt;/p>
+&lt;h2 id="主要内容">主要内容&lt;/h2>
+&lt;h3 id="第一部分">第一部分&lt;/h3>
+&lt;p>hugo使用方法：&lt;/p>
+&lt;p>
+ &lt;img src="hugo.png" alt="Hugo 本地预览界面">
+
+&lt;/p></description></item><item><title>关于我</title><link>https://gcp-lopo.github.io/about/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0800</pubDate><guid>https://gcp-lopo.github.io/about/</guid><description>&lt;h2 id="我是谁">我是谁&lt;/h2>
+&lt;p>我是 Lopo，自 2017 年起从事临床试验编程，目前就读于北京大学医学部公共卫生学院生物统计系应用统计方向非全日制研究生。&lt;/p>
+&lt;p>我的长期主线可以概括为：&lt;strong>Clinical Trials × Biostatistics × AI&lt;/strong>。&lt;/p></description></item><item><title>我的临床试验 SAS 编程之路：从入行到技术转型</title><link>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0800</pubDate><guid>https://gcp-lopo.github.io/post/2025-07-06_my-first-post/</guid><description>&lt;h2 id="引言">引言&lt;/h2>
+&lt;p>我从 2017 年 7 月开始从事临床试验 SAS 编程。这篇文章回顾入行以来的职业经历、技术积累，以及从 SAS 向 R、Python 和现代可复现工作流延伸的思考。&lt;/p>
+&lt;h2 id="我的sas编程之路">我的SAS编程之路&lt;/h2>
+&lt;h3 id="初入行业">初入行业&lt;/h3>
+&lt;p>2017年7月毕业后直接来到北京，进入一家CRO，我刚开始接触SAS编程时，面对临床试验数据的复杂性，确实感到有些不知所措。临床试验数据有其特殊性：&lt;/p></description></item><item><title>学习笔记</title><link>https://gcp-lopo.github.io/notes/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0800</pubDate><guid>https://gcp-lopo.github.io/notes/</guid><description>&lt;p>这里是我的“数字花园”：用于记录仍在生长中的方法、代码片段和学习问题。与正式文章相比，笔记更短、更新更频繁，也可能随着实践和课程学习持续修订。&lt;/p></description></item><item><title>文章归档</title><link>https://gcp-lopo.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://gcp-lopo.github.io/archive/</guid><description/></item></channel></rss>
